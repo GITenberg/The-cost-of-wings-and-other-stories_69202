@@ -1,5 +1,8 @@
 _repo: The-cost-of-wings-and-other-stories_69202
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69202-h/images/cover.jpg
 creator:
   author:
     agent_name: Dehan, Richard
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33039
     wikipedia: https://en.wikipedia.org/wiki/Clotilde_Graves
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69202#The-cost-of-wings-and-other-stories
 gutenberg_issued: '2022-10-23'
 identifiers:
   gutenberg: '69202'
